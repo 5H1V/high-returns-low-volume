@@ -3,10 +3,11 @@ CREATE
 (burberry:BRAND{name:"Burberry"}),
 (prada:BRAND{name:"Prada"}),
 (versace:BRAND{name:"Versace"}),
-(balenciaga:BRAND{name:"Balenciaga"}),
-(hermes:BRAND{name:"Hermes"}),
-(chanel:BRAND{name:"Chanel"}),
-(dior:BRAND{name:"Dior"}),
+
+(balenciaga:COMPETITOR{name:"Balenciaga"}),
+(hermes:COMPETITOR{name:"Hermes"}),
+(chanel:COMPETITOR{name:"Chanel"}),
+(dior:COMPETITOR{name:"Dior"}),
 
 (handbag:PRODUCT{name: "Handbag"}),
 (w_shoes:PRODUCT{name: "Women's Shoes"}),
