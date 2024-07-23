@@ -1,6 +1,0 @@
-node {
-  font-size: 10px;
-}
-relationship {
-  font-size: 8px;
-}
